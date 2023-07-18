@@ -2,5 +2,11 @@
 
 int main()
 {
-	main的第2个版本
+<<<<<<< HEAD
+	
+=======
+
+解决冲突
+	feature_1_branch的第一次改动·::
+>>>>>>> feature_1_branch
 }
